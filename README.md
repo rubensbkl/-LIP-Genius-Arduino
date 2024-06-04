@@ -26,4 +26,4 @@ Este projeto consiste em um jogo de memória usando o Arduino. O objetivo do jog
 - Protoboard
 
 ### Esquema de Ligação
-![Esquema de Ligação](image.png)
+![Esquema de Ligação](imagem.png)
