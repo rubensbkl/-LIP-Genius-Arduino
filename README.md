@@ -7,7 +7,7 @@
 ## Professore Responsável
 - João Paulo Aramuni
 
-- ## Link do Projeto
+## Link do Projeto
 - [CLIQUE AQUI](https://www.tinkercad.com/things/hZyFr02HP5V-lip-genius-gustavo-e-rubens/editel?sharecode=DY9YN8mJjslTjV_UCL9eCXGVqxgjcB-p5ooCpdO8AVU)
 
 ## Créditos
