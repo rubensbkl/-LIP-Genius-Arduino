@@ -7,6 +7,9 @@
 ## Professore Responsável
 - João Paulo Aramuni
 
+- ## Link do Projeto
+- [CLIQUE AQUI](https://www.tinkercad.com/things/hZyFr02HP5V-lip-genius-gustavo-e-rubens/editel?sharecode=DY9YN8mJjslTjV_UCL9eCXGVqxgjcB-p5ooCpdO8AVU)
+
 ## Créditos
 Este projeto foi desenvolvido como parte do curso de Ciência da Computação da Pontifícia Universidade Católica de Minas Gerais (PUC Minas).
 
