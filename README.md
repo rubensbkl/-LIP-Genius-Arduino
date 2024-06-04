@@ -1,17 +1,14 @@
 # Projeto Arduino: Jogo de Memória
 
-## Integrantes do Grupo
-- Nome do Integrante 1
-- Nome do Integrante 2
-- Nome do Integrante 3
-- Nome do Integrante 4
+## Integrantes da Dupla
+- Gustavo Tadeu Melgaço Valeriano
+- Rubens Dias Bicalho
 
-## Professores Responsáveis
-- Professor 1
-- Professor 2
+## Professore Responsável
+- João Paulo Aramuni
 
 ## Créditos
-Este projeto foi desenvolvido como parte do curso de Engenharia de Computação da Pontifícia Universidade Católica de Minas Gerais (PUC Minas).
+Este projeto foi desenvolvido como parte do curso de Ciência da Computação da Pontifícia Universidade Católica de Minas Gerais (PUC Minas).
 
 ## Descrição do Projeto
 Este projeto consiste em um jogo de memória usando o Arduino. O objetivo do jogo é seguir a sequência de LEDs acesos e sons emitidos pelo buzzer. A cada rodada, a sequência aumenta em um passo, tornando o jogo progressivamente mais difícil.
